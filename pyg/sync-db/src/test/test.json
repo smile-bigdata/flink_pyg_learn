@@ -1,0 +1,36 @@
+{
+  "emptyCount": 7,
+  "logFileName": "mysql-bin.000005",
+  "dbName": "pyg",
+  "logFileOffset": 26805,
+  "eventType": "DELETE",
+  "columnValueList": [
+    {
+      "columnName": "commodityId",
+      "columnValue": "1",
+      "isValid": false
+    },
+    {
+      "columnName": "commodityName",
+      "columnValue": "耐克2",
+      "isValid": false
+    },
+    {
+      "columnName": "commodityTypeId",
+      "columnValue": "1",
+      "isValid": false
+    },
+    {
+      "columnName": "originalPrice",
+      "columnValue": "888.0",
+      "isValid": false
+    },
+    {
+      "columnName": "activityPrice",
+      "columnValue": "820.0",
+      "isValid": false
+    }
+  ],
+  "tableName": "commodity",
+  "timestamp": 1558787235000
+}

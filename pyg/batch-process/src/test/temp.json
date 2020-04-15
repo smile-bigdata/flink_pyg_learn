@@ -1,0 +1,14 @@
+{
+  "benefitAmount": "20.0",
+  "orderAmount": "300.0",
+  "payAmount": "457.0",
+  "activityNum": "0",
+  "createTime": "2018-08-13 00:00:06",
+  "merchantId": "1",
+  "orderId": "99",
+  "payTime": "2018-08-13 00:00:06",
+  "payMethod": "1",
+  "voucherAmount": "20.0",
+  "commodityId": "1101",
+  "userId": "4"
+}

@@ -1,0 +1,3 @@
+bin/kafka-topics.sh --create --zookeeper node01:2181 --replication-factor 2 --partitions 3 --topic pyg
+
+bin/kafka-console-consumer.sh --zookeeper node01:2181 --from-beginning --topic pyg

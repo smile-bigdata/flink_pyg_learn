@@ -1,0 +1,36 @@
+{
+  "emptyCount": 2,
+  "logFileName": "mysql-bin.000005",
+  "dbName": "pyg",
+  "logFileOffset": 7732,
+  "eventType": "INSERT",
+  "columnValueList": [
+    {
+      "columnName": "commodityId",
+      "columnValue": "2",
+      "isValid": true
+    },
+    {
+      "columnName": "commodityName",
+      "columnValue": "李宁",
+      "isValid": true
+    },
+    {
+      "columnName": "commodityTypeId",
+      "columnValue": "1",
+      "isValid": true
+    },
+    {
+      "columnName": "originalPrice",
+      "columnValue": "888.0",
+      "isValid": true
+    },
+    {
+      "columnName": "activityPrice",
+      "columnValue": "820.0",
+      "isValid": true
+    }
+  ],
+  "tableName": "commodity",
+  "timestamp": 1558604669000
+}
